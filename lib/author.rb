@@ -4,5 +4,4 @@ class author
   def initialize
     @name = name
   end
-
 end
